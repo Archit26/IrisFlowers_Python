@@ -1,1 +1,1 @@
-# IrisFlowers_Python
+# Here Iris.CSV is a dataset taken from Kaggle and IrisFlowers.ipynb is a jupyter notebook with the code and comments. This is a very basic project to understand and start your journey into field of ML and Python. In this proect, 3 diferent models got used to compare their performance with each other.
